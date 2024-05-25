@@ -41,3 +41,7 @@ img {
         transform: translateY(10%);
     }
 }
+
+audio {
+    width: 300px; 
+}
